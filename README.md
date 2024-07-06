@@ -1,4 +1,4 @@
-# Hi there, I'm [Datadevph] 👋
+# Hi there, I'm Patrick 👋
 
 I'm a recent computer science graduate pursuing a career in data engineering. I'm passionate about working with data and leveraging modern tools and technologies to create efficient and scalable data pipelines. Below are the tools and languages I use:
 
